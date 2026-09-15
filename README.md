@@ -1,50 +1,39 @@
 <div align="center">
 
-![Amir Gam — Generative AI Video, VFX-grade pipelines](assets/banner@2x.png)
+<img src="assets/banner.svg" alt="Amir Gam — Creative AI product specialist" width="100%">
 
 </div>
 
-### Hi, I'm Amir 👋
+### Hi, I’m Amir
 
-I build **generative AI video — and the tools that make it survive a real production pipeline.**
-Creative AI Solutions @ [Lightricks](https://www.lightricks.com) AI Lab, working across the LTX ecosystem.
-Ten years in 3D/VFX before this, so I tend to ask the unglamorous questions: *does it hold up in comp? does it round-trip through a post pipeline? can an artist actually use it?*
+I design and ship **AI tools people can actually use** — the kind you open, understand, and run.
 
-That bridge — VFX craft meeting generative models — is the whole point of what I make.
+Creative AI at [Lightricks](https://www.lightricks.com) (LTX). Personal tools and experiments live here.
 
----
-
-### 🛠️ What I build
-
-- **blender-LTX** — I lead this: a 3D animation tool forked from Blender that neural-renders video through LTX-2 (depth / normal / edge / matte guides, 3D reconstruction, local + cloud rendering). *Private for now.*
-- **HDR + 32-bit EXR for generative video** — making AI-generated footage carry real dynamic range and survive a pro VFX/post pipeline instead of dying at 8-bit.
-- **Custom LoRA / IC-LoRA training** — characters, styles, and IP, production-grade.
-- **Interactive AI video** — live, real-time generative experiences on the LTX live engine.
-
-*Selected production work under NDA, across film, broadcast, and major global brands.*
+Ten years in 3D/VFX before this, so I still ask the unglamorous questions: does it hold up in a real pipeline, and can someone who isn’t me use it?
 
 ---
 
-### 📌 Featured (open source)
+### Open source
+
+Pinned in this order — craft first, then product, then video.
 
 | | |
 |---|---|
-| **[exr-pass-viewer](https://github.com/GumyGam/exr-pass-viewer)** &nbsp;·&nbsp; `TypeScript` | Browser-only viewer for multilayer **OpenEXR** renders — pass inspection, keyframe compare, Cryptomatte picker, relight-over-beauty. No install, no upload, files never leave your machine. **[Live demo →](https://gumygam.github.io/exr-pass-viewer/)** |
-| **[MovieMakerAI](https://github.com/GumyGam/moviemakerai)** &nbsp;·&nbsp; `Python` | Agentic AI editor that turns raw clips into cinematic, music-synced cuts. Multi-agent planning (screenwriter → editor → reviewer) on local vLLM. |
+| **[exr-pass-viewer](https://github.com/GumyGam/exr-pass-viewer)** · TypeScript | Browser-only viewer for multilayer **OpenEXR** renders. Pass inspection, keyframe compare, Cryptomatte picker. Files never leave your machine. **[Live demo →](https://gumygam.github.io/exr-pass-viewer/)** |
+| **[crochet-ai](https://github.com/GumyGam/crochet-ai)** · Python | Photo or a few words in, beginner crochet pattern out. Local vision model, review UI, PDF. **[Product page →](https://gumygam.github.io/crochet-ai/)** |
+| **[MovieMakerAI](https://github.com/GumyGam/moviemakerai)** · Python | Agentic editor: raw clips → music-synced cuts. Multi-agent planning on local vLLM. **[Product page →](https://gumygam.github.io/moviemakerai/)** |
 
 ---
 
-### 🧰 Stack
+### Stack
 
-`LTX-2` · `ComfyUI` · `LoRA / IC-LoRA` · `Diffusion models` · `Python` · `Blender` · `OpenEXR / HDR` · `vLLM` · `ffmpeg`
-*Previously:* `3ds Max` · `Maya` · `Unreal` · `V-Ray` · `Corona` · render passes & compositing
+`Python` · `TypeScript` · `OpenEXR` · `Blender` · `Ollama` · `vLLM` · `ffmpeg`
+
+*Earlier:* `3ds Max` · `Maya` · `Unreal` · `V-Ray` · `Corona` · render passes & compositing
 
 ---
 
-### 📫 Let's talk
+### Let’s talk
 
-Always up for sharp problems in **generative video, neural rendering, and VFX-grade AI pipelines.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amir--gam-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-gam)
-[![Email](https://img.shields.io/badge/Email-gumygam@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:gumygam@gmail.com)
-<!-- Lightricks engineering-spotlight post on the HDR/EXR work — link goes here when it publishes. -->
+[LinkedIn](https://www.linkedin.com/in/amir-gam) · [gumygam@gmail.com](mailto:gumygam@gmail.com)

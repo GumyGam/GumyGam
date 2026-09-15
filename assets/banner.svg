@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Amir Gam">
+  <rect width="1280" height="320" fill="#F3EBE0"/>
+  <rect x="0" y="0" width="1280" height="320" fill="url(#dots)" opacity="0.55"/>
+  <defs>
+    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.7" fill="#1F1A16" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <line x1="72" y1="248" x2="220" y2="248" stroke="#B85C38" stroke-width="3"/>
+  <text x="72" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#1F1A16" letter-spacing="4">AMIR GAM</text>
+  <text x="72" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#B85C38">Creative AI product specialist</text>
+  <text x="72" y="214" font-family="ui-sans-serif, Helvetica, Arial, sans-serif" font-size="18" fill="#5C534C">Personal tools · local models · things people can actually use</text>
+</svg>
